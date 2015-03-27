@@ -8,15 +8,13 @@ using System.Data;
 
 namespace DBConnection
 {
-    public partial class GetAConnection : IDisposable
+    public class GetAConnection
     {
-        string dbConnectionString = @"Data Source=database.db;version=3;";
-        //public SQLiteConnection getDBConnection()
-        public SQLiteConnection getDBConnection()
-        {
-            SQLiteConnection sqliteCon = new SQLiteConnection(dbConnectionString);
-            sqliteCon.Open();
-            return sqliteCon;
+        string getRemoteConnectionString()
+        { 
+            string dbConnectionString = @"Data Source=database.db;version=3;";
+            return dbConnectionString;
         }
+        //public SQLiteConnection getDBConnection()
     }
 }
