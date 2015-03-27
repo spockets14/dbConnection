@@ -8,13 +8,12 @@ using System.Data;
 
 namespace DBConnection
 {
-    public class GetAConnectionNow
+    public partial class GetAConnectionNow
     {
-        string getRemoteConnectionString()
-        { 
+        public string getADBString()
+        {
             string dbConnectionString = @"Data Source=database.db;version=3;";
             return dbConnectionString;
-        }
-        //public SQLiteConnection getDBConnection()
+        }//public SQLiteConnection getDBConnection()
     }
 }
