@@ -8,7 +8,7 @@ using System.Data;
 
 namespace DBConnection
 {
-    public class GetAConnection
+    public class GetAConnectionNow
     {
         string getRemoteConnectionString()
         { 
