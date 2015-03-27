@@ -12,7 +12,7 @@ namespace DBConnection
     {
         public string getADBString()
         {
-            string dbConnectionString = @"Data Source=database.db;version=3;";
+            string dbConnectionString = @"Data Source=database22.db;version=3;";
             return dbConnectionString;
         }//public SQLiteConnection getDBConnection()
     }
