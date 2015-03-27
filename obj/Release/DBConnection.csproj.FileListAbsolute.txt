@@ -1,6 +1,0 @@
-C:\Users\jamebyrd\Source\Repos\Wpf_App1\DBConnection\bin\Release\DBConnection.dll
-C:\Users\jamebyrd\Source\Repos\Wpf_App1\DBConnection\bin\Release\DBConnection.pdb
-C:\Users\jamebyrd\Source\Repos\Wpf_App1\DBConnection\bin\Release\System.Data.SQLite.dll
-C:\Users\jamebyrd\Source\Repos\Wpf_App1\DBConnection\bin\Release\System.Data.SQLite.xml
-C:\Users\jamebyrd\Source\Repos\Wpf_App1\DBConnection\obj\Release\DBConnection.dll
-C:\Users\jamebyrd\Source\Repos\Wpf_App1\DBConnection\obj\Release\DBConnection.pdb
